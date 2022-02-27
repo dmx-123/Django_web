@@ -1,1 +1,1 @@
-# Django_web
+# Job Market Analysis and Visualization Project
